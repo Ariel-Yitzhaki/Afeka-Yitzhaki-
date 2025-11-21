@@ -1,0 +1,18 @@
+#mainimage {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+
+body {
+    padding-top: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    z-index: 0;
+    position: relative;
+}
