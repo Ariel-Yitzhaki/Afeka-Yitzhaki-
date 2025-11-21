@@ -1,2 +1,1 @@
-https://github.com/Ariel-Yitzhaki/Afeka-Yitzhaki-.git
-.
+https://ariel-yitzhaki.github.io/Afeka-Yitzhaki-/
